@@ -6,7 +6,8 @@ public class HelloGit {
 		System.out.println("HelloGit01");
 		System.out.println("HelloGit02");
 		System.out.println("HelloGit03");
-		System.out.println("HelloGit04");
+		System.out.println("HelloGit05");
+		System.out.println("EclipseUpdate01");
 	}
 	
 }
