@@ -7,6 +7,7 @@ public class HelloGit {
 		System.out.println("HelloGit02");
 		System.out.println("HelloGit03");
 		System.out.println("HelloGit04");
+		System.out.println("GitHubUpdate 01");
 	}
 	
 }
